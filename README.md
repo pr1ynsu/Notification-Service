@@ -25,7 +25,7 @@ A Flask-based notification service with RabbitMQ worker for asynchronous notific
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/notification-service.git
+git clone https://github.com/pr1ynsu/notification-service.git
 cd notification-service
 ````
 
